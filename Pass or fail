@@ -1,0 +1,22 @@
+Sno=int(input('enter stud no:'))
+Same= (input('enter stud name:')
+Sgroup=input('enter stud group:')
+S1=int(input('maths marks:'))
+S2=int(input('physics marks:'))
+S3=int(input('dbms marks:'))
+S4=int(input('eng marks:'))
+S5=int(input('san marks:'))
+If S1>=35 and S2>=35 and S3>=35 and S4>=35 and S5>=35:
+print('pass')
+else:
+print('fail')
+Output:
+enter stud no:1
+enter stud name:rani
+enter stud group:mpcs
+maths marks:45
+physics marks:55
+dbms marks:66
+eng marks:56
+san marks:65
+Pass
